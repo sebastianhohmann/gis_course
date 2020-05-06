@@ -1,2 +1,10 @@
 # gis_course
-GIS methods course
+Slides and code for courses on GIS methods developed together with 
+[Giorgio Chiovelli](https://sites.google.com/site/gchiovelli/).
+
+We have a version of the course using ArcGIS 10.X and a version using QGIS.
+The ArcGIS course is aimed at research students in economics. For QGIS, 
+there are two courses. One is pretty much a one-to-one port of the ArcGIS
+course for research students. The other is aimed at business school students.
+
+
