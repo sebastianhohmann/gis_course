@@ -7,4 +7,7 @@ The ArcGIS course is aimed at research students in economics. For QGIS,
 there are two courses. One is pretty much a one-to-one port of the ArcGIS
 course for research students. The other is aimed at business school students.
 
+A special thanks to [Shaun R Levick](https://www.shaunlevick.com/) for
+letting us re-use some of his material on the Google Earth Engine.
+
 
