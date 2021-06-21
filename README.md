@@ -10,8 +10,7 @@ We have three versions of the course
 - An older version using [QGIS](https://www.qgis.org/en/site/), for which there are two courses. One is aimed at doctoral students, the other is aimed at business school students.
 - The oldest version using [ArcGIS](https://desktop.arcgis.com/en/) 10.X is aimed at doctoral students.
 
-The last lecture of each doctoral course is an introduction to the Google 
-Earth Engine.
+The last lecture of each doctoral course is an introduction to the [Google Earth Engine](https://earthengine.google.com/).
 
 A special thanks to [Shaun R Levick](https://www.shaunlevick.com/) for
 letting us re-use some of his material on the Google Earth Engine.
